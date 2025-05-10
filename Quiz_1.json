@@ -1,0 +1,92 @@
+[
+    {
+        "Questions":"Which plot is used to visualize the distribution of a single numerical variable?",
+        "Option_1":"Scatter plot",
+        "Option_2":"Histogram",
+        "Option_3":"Box plot",
+        "Option_4":"Bar chart",
+        "Right_Answer":"Histogram",
+        "Hint":"Think about how you'd show frequency.",
+        "Explanation":"A histogram shows the frequency of data points within specific ranges,  revealing the distribution."
+    },
+    {
+        "Questions":"Which measure of central tendency is most affected by outliers?",
+        "Option_1":"Median",
+        "Option_2":"Mode",
+        "Option_3":"Mean",
+        "Option_4":"Range",
+        "Right_Answer":"Mean",
+        "Hint":"Consider how extreme values pull the average.",
+        "Explanation":"The mean is calculated by summing all values and dividing by the number of values,  making it sensitive to extreme values."
+    },
+    {
+        "Questions":"What does IQR stand for?",
+        "Option_1":"Interquartile Range",
+        "Option_2":"Inner Quartile Radius",
+        "Option_3":"Important Quality Ratio",
+        "Option_4":"Independent Quantity Range",
+        "Right_Answer":"Interquartile Range",
+        "Hint":"It's related to quartiles.",
+        "Explanation":"IQR is the difference between the 75th and 25th percentiles,  representing the spread of the middle 50% of the data."
+    },
+    {
+        "Questions":"Which plot is used to visualize the relationship between two categorical variables?",
+        "Option_1":"Scatter plot",
+        "Option_2":"Histogram",
+        "Option_3":"Box plot",
+        "Option_4":"Stacked Bar chart",
+        "Right_Answer":"Stacked Bar chart",
+        "Hint":"Think about how you can compare categories within categories.",
+        "Explanation":"A stacked bar chart allows you to compare the proportions of different categories within each other."
+    },
+    {
+        "Questions":"What is the purpose of Exploratory Data Analysis (EDA)?",
+        "Option_1":"To build predictive models",
+        "Option_2":"To clean the data",
+        "Option_3":"To summarize main characteristics of the data",
+        "Option_4":"To validate data",
+        "Right_Answer":"To summarize main characteristics of the data",
+        "Hint":"EDA is about understanding the data's story.",
+        "Explanation":"EDA uses visual and statistical methods to understand data patterns,  identify outliers"
+    },
+    {
+        "Questions":"Which of the following is NOT a measure of dispersion?",
+        "Option_1":"Variance",
+        "Option_2":"Standard Deviation",
+        "Option_3":"Median",
+        "Option_4":"Range",
+        "Right_Answer":"Median",
+        "Hint":"Dispersion measures the spread of data.",
+        "Explanation":"Median is a measure of central tendency"
+    },
+    {
+        "Questions":"Which plot is useful for identifying outliers in a numerical variable?",
+        "Option_1":"Scatter plot",
+        "Option_2":"Histogram",
+        "Option_3":"Box plot",
+        "Option_4":"Bar chart",
+        "Right_Answer":"Box plot",
+        "Hint":"Think about the whiskers and the box.",
+        "Explanation":"Box plots display the distribution of data and use whiskers to show the range of the data"
+    },
+    {
+        "Questions":"What is the difference between a bar chart and a histogram?",
+        "Option_1":"They are the same",
+        "Option_2":"Bar chart is for numerical",
+        "Option_3":"histogram is for categorical",
+        "Option_4":"Bar chart is for categorical",
+        "Right_Answer":"histogram is for numerical",
+        "Hint":"D) Bar chart shows frequency",
+        "Explanation":"histogram shows probability"
+    },
+    {
+        "Questions":"What is a correlation coefficient?",
+        "Option_1":"A measure of central tendency",
+        "Option_2":"A measure of dispersion",
+        "Option_3":"A measure of the linear relationship between two variables",
+        "Option_4":"A measure of non-linear relationship",
+        "Right_Answer":"A measure of the linear relationship between two variables",
+        "Hint":"Think about how variables relate to each other linearly.",
+        "Explanation":"Correlation coefficients"
+    }
+]
