@@ -10,12 +10,12 @@
     "opt4": "Understanding variables",
     "opt5": "",
     "opt6": "",
-    "is_ri_opt-01": "false",
-    "is_ri_opt-02": "false",
-    "is_ri_opt-03": "true",
-    "is_ri_opt-04": "true",
-    "is_ri_opt-05": "false",
-    "is_ri_opt-06": "false"
+    "is_ri_opt-01": false,
+    "is_ri_opt-02": false,
+    "is_ri_opt-03": true,
+    "is_ri_opt-04": true,
+    "is_ri_opt-05": false,
+    "is_ri_opt-06": false
   },
   {
     "q_id": "00002",
@@ -28,12 +28,12 @@
     "opt4": "Line plot",
     "opt5": "Pair plot",
     "opt6": "",
-    "is_ri_opt-01": "true",
-    "is_ri_opt-02": "true",
-    "is_ri_opt-03": "false",
-    "is_ri_opt-04": "true",
-    "is_ri_opt-05": "false",
-    "is_ri_opt-06": "false"
+    "is_ri_opt-01": true,
+    "is_ri_opt-02": true,
+    "is_ri_opt-03": false,
+    "is_ri_opt-04": true,
+    "is_ri_opt-05": false,
+    "is_ri_opt-06": false
   },
   {
     "q_id": "00003",
@@ -46,12 +46,12 @@
     "opt4": "Minimum",
     "opt5": "Maximum",
     "opt6": "Median",
-    "is_ri_opt-01": "true",
-    "is_ri_opt-02": "true",
-    "is_ri_opt-03": "true",
-    "is_ri_opt-04": "true",
-    "is_ri_opt-05": "true",
-    "is_ri_opt-06": "false"
+    "is_ri_opt-01": true,
+    "is_ri_opt-02": true,
+    "is_ri_opt-03": true,
+    "is_ri_opt-04": true,
+    "is_ri_opt-05": true,
+    "is_ri_opt-06": false
   },
   {
     "q_id": "00004",
@@ -64,12 +64,12 @@
     "opt4": "Correlation matrix",
     "opt5": "Value Counts",
     "opt6": "",
-    "is_ri_opt-01": "true",
-    "is_ri_opt-02": "true",
-    "is_ri_opt-03": "true",
-    "is_ri_opt-04": "false",
-    "is_ri_opt-05": "false",
-    "is_ri_opt-06": "false"
+    "is_ri_opt-01": true,
+    "is_ri_opt-02": true,
+    "is_ri_opt-03": true,
+    "is_ri_opt-04": false,
+    "is_ri_opt-05": false,
+    "is_ri_opt-06": false
   },
   {
     "q_id": "00005",
@@ -82,12 +82,12 @@
     "opt4": "sklearn",
     "opt5": "numpy",
     "opt6": "plotly",
-    "is_ri_opt-01": "true",
-    "is_ri_opt-02": "true",
-    "is_ri_opt-03": "true",
-    "is_ri_opt-04": "false",
-    "is_ri_opt-05": "false",
-    "is_ri_opt-06": "true"
+    "is_ri_opt-01": true,
+    "is_ri_opt-02": true,
+    "is_ri_opt-03": true,
+    "is_ri_opt-04": false,
+    "is_ri_opt-05": false,
+    "is_ri_opt-06": true
   },
   {
     "q_id": "00006",
@@ -100,12 +100,12 @@
     "opt4": "Feature importance",
     "opt5": "",
     "opt6": "",
-    "is_ri_opt-01": "false",
-    "is_ri_opt-02": "true",
-    "is_ri_opt-03": "false",
-    "is_ri_opt-04": "false",
-    "is_ri_opt-05": "false",
-    "is_ri_opt-06": "false"
+    "is_ri_opt-01": false,
+    "is_ri_opt-02": true,
+    "is_ri_opt-03": false,
+    "is_ri_opt-04": false,
+    "is_ri_opt-05": false,
+    "is_ri_opt-06": false
   },
   {
     "q_id": "00007",
@@ -118,12 +118,12 @@
     "opt4": "Mode = Median = Mean",
     "opt5": "",
     "opt6": "",
-    "is_ri_opt-01": "true",
-    "is_ri_opt-02": "true",
-    "is_ri_opt-03": "true",
-    "is_ri_opt-04": "false",
-    "is_ri_opt-05": "false",
-    "is_ri_opt-06": "false"
+    "is_ri_opt-01": true,
+    "is_ri_opt-02": true,
+    "is_ri_opt-03": true,
+    "is_ri_opt-04": false,
+    "is_ri_opt-05": false,
+    "is_ri_opt-06": false
   },
   {
     "q_id": "00008",
@@ -136,12 +136,12 @@
     "opt4": "Indicates outliers",
     "opt5": "Visual summary of correlation",
     "opt6": "",
-    "is_ri_opt-01": "true",
-    "is_ri_opt-02": "false",
-    "is_ri_opt-03": "true",
-    "is_ri_opt-04": "false",
-    "is_ri_opt-05": "true",
-    "is_ri_opt-06": "false"
+    "is_ri_opt-01": true,
+    "is_ri_opt-02": false,
+    "is_ri_opt-03": true,
+    "is_ri_opt-04": false,
+    "is_ri_opt-05": true,
+    "is_ri_opt-06": false
   },
   {
     "q_id": "00009",
@@ -154,12 +154,12 @@
     "opt4": "Z-score normalization",
     "opt5": "One-hot encoding",
     "opt6": "Interpolation",
-    "is_ri_opt-01": "true",
-    "is_ri_opt-02": "true",
-    "is_ri_opt-03": "true",
-    "is_ri_opt-04": "false",
-    "is_ri_opt-05": "false",
-    "is_ri_opt-06": "true"
+    "is_ri_opt-01": true,
+    "is_ri_opt-02": true,
+    "is_ri_opt-03": true,
+    "is_ri_opt-04": false,
+    "is_ri_opt-05": false,
+    "is_ri_opt-06": true
   },
   {
     "q_id": "00010",
@@ -172,11 +172,11 @@
     "opt4": "Data leakage",
     "opt5": "Label encoding",
     "opt6": "Outliers",
-    "is_ri_opt-01": "true",
-    "is_ri_opt-02": "true",
-    "is_ri_opt-03": "true",
-    "is_ri_opt-04": "true",
-    "is_ri_opt-05": "false",
-    "is_ri_opt-06": "true"
+    "is_ri_opt-01": true,
+    "is_ri_opt-02": true,
+    "is_ri_opt-03": true,
+    "is_ri_opt-04": true,
+    "is_ri_opt-05": false,
+    "is_ri_opt-06": true
   }
 ]
